@@ -1,0 +1,1 @@
+# Laravel-single-vendor
